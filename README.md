@@ -1,1 +1,1 @@
-# Supervised-PCA followed by classification methods like LDA, QDA
+# Implemented Supervised Principal Components approach followed by classification methods like LDA, QDA
